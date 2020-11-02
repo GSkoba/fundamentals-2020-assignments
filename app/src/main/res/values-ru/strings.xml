@@ -3,4 +3,5 @@
     <string name="app_name">FundamentalsAssignments</string>
     <string name="hello_android_academy">Привет Android академия!</string>
     <string name="hello_world">Привет Мир</string>
+    <string name="this_is_second_activity">Это вторая активити</string>
 </resources>
